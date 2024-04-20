@@ -10,11 +10,11 @@ import arrow2 from "../assets/img/arrow2.svg";
 export const Skills = () => {
   const responsive = {
     superLargeDesktop: {
-      breakpoint: { max: 4000, min: 3000 },
+      breakpoint: { max: 2560, min: 1440 },
       items: 5
     },
     desktop: {
-      breakpoint: { max: 3000, min: 1024 },
+      breakpoint: { max: 1024, min: 720 },
       items: 3
     },
     tablet: {
