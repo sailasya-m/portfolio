@@ -1,7 +1,7 @@
 {
   "name": "lasya-portfolio",
   "version": "0.1.0",
-  "homepage": "https://sailasya-m.github.io/portfolio",
+  "homepage": "https://sailasya-m.github.io/sailasya-m/portfolio",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
